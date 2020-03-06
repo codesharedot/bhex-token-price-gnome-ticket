@@ -1,5 +1,8 @@
-# bhex-token price gnome ticket 
+# bhex-token gnome price ticker
 
-Gnome 3 desktop ticker for bhex-token price with Python and argos. Rename to bhex-token.1r.60s.py and put in ~/.config/argos
+Get bhex-token price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/bhex-token-price-gnome-ticket/](https://codesharedot.github.io/bhex-token-price-gnome-ticket/)
 
-https://pythonbasics.org
+bhex-token price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to bhex-token.1r60s.py and put in ~/.config/argos
